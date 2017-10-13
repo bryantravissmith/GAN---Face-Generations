@@ -6,6 +6,7 @@ checkpoints/
 data/
 assets/
 
+*.DS_Store
 *.pkl
 # C extensions
 *.so
