@@ -2,7 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+checkpoints/
+data/
+assets/
 
+*.pkl
 # C extensions
 *.so
 
